@@ -20,7 +20,7 @@ if __name__ == '__main__':
         sys.exit(2)
 
     value_to_check = sys.argv[1]
-    filename = '/Users/datamgmt/Documents/GitHub/pi-code/flightaware/aircraft.txt'
+    filename = '/home/pi/pi-code/flightaware/aircraft.txt'
 
     if value_exists_in_file(value_to_check, filename):
         #print(f"The value '{value_to_check}' exists in the file '{filename}'.")
