@@ -1,31 +1,31 @@
-# Hex Numbers
-# Wildcat List Taken From https://www.helis.com/database/modelorg/Royal-Navy-Wildcat
-# Hex looked up on https://www.flightradar24.com/
-43C6DF
-43C6E0
-43C6E1
-43C6E2
-43C6E3
-43C6E4
-43C6E5
-43C6B9
-43C6BA
-43C6C5
-43C6C6
-43C6C7
-43C75A
-43C75B
-43C75C
-43C75D
-43C75E
-43C75F
-43C760
-43C763
-43C769
-43C76A
-43C76B
-43C76C
-43C76D
-43C76E
-43C76F
-43C770
+# hex numbers
+# wildcat list taken from https://www.helis.com/database/modelorg/royal-navy-wildcat
+# hex looked up on https://www.flightradar24.com/
+43c6df
+43c6e0
+43c6e1
+43c6e2
+43c6e3
+43c6e4
+43c6e5
+43c6b9
+43c6ba
+43c6c5
+43c6c6
+43c6c7
+43c75a
+43c75b
+43c75c
+43c75d
+43c75e
+43c75f
+43c760
+43c763
+43c769
+43c76a
+43c76b
+43c76c
+43c76d
+43c76e
+43c76f
+43c770
