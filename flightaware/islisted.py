@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+import sys
+
 def value_exists_in_file(value, filename='data.txt'):
     try:
         with open(filename, 'r') as file:
