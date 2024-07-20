@@ -25,9 +25,9 @@ if __name__ == '__main__':
     if value_exists_in_file(value_to_check, filename):
         #print(f"The value '{value_to_check}' exists in the file '{filename}'.")
         print("1")
-        sys.exit(1)
+        #sys.exit(1)
     else:
         #print(f"The value '{value_to_check}' does not exist in the file '{filename}'.")
         print("0")
-        sys.exit(0)
+        #sys.exit(0)
 
